@@ -26,6 +26,7 @@ SuperTete/
 │
 ├── main.py            # Ponto de entrada do jogo (o "Maestro" que gerencia os estados)
 └── README.md          # Este arquivo de documentação
+
 🛠️ Como Rodar
 Para executar o projeto em sua máquina local, siga os passos abaixo.
 
