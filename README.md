@@ -4,8 +4,6 @@ Essa versão é a mesma da 1.3 e 1.3.1, mas com a principal mudança que é um n
 Super Tetê 🎮
 Um vibrante jogo de plataforma 2D em pixel art, desenvolvido em Python com a biblioteca Pygame-CE. Acompanhe Tetê e Lilice em uma aventura cheia de desafios, pulos precisos e mísseis a serem desviados!
 
-[Insira um screenshot ou GIF do jogo aqui! É uma ótima forma de mostrar seu projeto.]
-
 🚀 Sobre o Jogo
 Super Tetê é um projeto criado para estudo e aprimoramento de técnicas de desenvolvimento de jogos. O foco principal foi a criação de uma arquitetura de software limpa e escalável, separando a lógica do jogo, os assets e as configurações em módulos distintos.
 
